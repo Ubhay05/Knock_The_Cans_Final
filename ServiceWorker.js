@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project (3)-0.1.0";
 const contentToCache = [
-    "Build/Knock_The_Cans_final.loader.js",
-    "Build/Knock_The_Cans_final.framework.js",
-    "Build/Knock_The_Cans_final.data",
-    "Build/Knock_The_Cans_final.wasm",
+    "Build/Knock_The_Cans_final(2).loader.js",
+    "Build/Knock_The_Cans_final(2).framework.js",
+    "Build/Knock_The_Cans_final(2).data",
+    "Build/Knock_The_Cans_final(2).wasm",
     "TemplateData/style.css"
 
 ];
